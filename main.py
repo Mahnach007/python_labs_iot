@@ -5,7 +5,7 @@ from monografi import Monografi
 
 
 
-def main():
+def main(): 
 
     marvel_book = Book("Book", 2020, 561, "Marvel", 20, "Printed", "Adventure", "Marvel Studious" )
     maxim_magazine = Magazine("Magazine", 2022, 56, "Maxim", 400, "18+", "Maxim Corp.")
